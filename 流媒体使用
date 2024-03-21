@@ -1,0 +1,12 @@
+windows 文件夹开启共享
+
+
+确定windows IP
+cmd 
+>ipconfig
+
+
+打开流媒体播放器 zFuse
+我的设备-SMB
+网址为ip
+用户名和密码为登录账号和密码(微软账号和密码)
